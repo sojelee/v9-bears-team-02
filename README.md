@@ -1,5 +1,5 @@
 # v9-bears-team-02
-## Team Members
+## Members
 
 Joseph Chananga Myalla
 
