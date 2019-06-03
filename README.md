@@ -69,7 +69,7 @@ Jascript/nodejs testing Libraries.
 
 Minimum design System for the application
 
-Micked data structures for the applicaion
+Mocked data structures for the applicaion
 
 ## Installation
 
