@@ -14,7 +14,7 @@ The registered commuity of students will get encouragement, motivation which wil
 
 ## User Stories
 
-Apparantly there is alot of good courses, programs in a variet of digital media, with so much appriciation of the abundance of good learning resources there is a need to create a community that can create learning material that is in real demand.
+Apparantly there is alot of good courses, programs in a variet of digital media, with so much appreciation of the abundance of good learning resources, we want to create a community that can create learning material that is in real demand.
 
 Students will register to the community application (TeachToLearn).
 
