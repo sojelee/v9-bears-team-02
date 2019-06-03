@@ -7,7 +7,7 @@ Labake
 
 LearnToTeach | Voyage-9 | https://chingu.io/
 
-Web/Mobile application
+Web/Mobile application Open Source Application
 
 The project objective is to build teaching skills of any subject to students of all levels.
 The registered commuity of students will get encouragement, motivation which will help them in their learning journey. Parents, teachers mentors can guid and support community members (students)to learn and understand the material, the content delivery must be done by the students.
@@ -32,4 +32,39 @@ The Community will vote for submitted knowledge contents, the application will r
 We emphases short duration/few reading time, few pages of illustrations.
 
 The content creator/developer will optionally provide links/hints for other free resources for further learning.
+
+## Technology Stack
+
+This will be Full Stack Application (web For now)
+
+### Back End
+
+Nodejs for Server Side, with username/mobile/social authentication
+
+## Database
+
+### Mongodb
+
+## Api
+
+### Graphql/Rest (Apollo Server)
+
+## Front End
+
+### Reactjs Using CRA/GratsbyJS, Apollo Client, TailwindCss for Styling
+
+## Testing
+
+### Jascript/nodejs testing Libraries.
+
+## WorkFlow
+
+Minimum design System for the application
+
+Micked data structures for the applicaion
+
+### Installation
+
+
+
 
