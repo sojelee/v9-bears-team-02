@@ -24,6 +24,14 @@ Any community member will prepare the instructions/lectures or some other form o
 
 The Community will vote for submitted knowledge contents, the application will rank the highly ranked knowledge content.
 
+Content creator will not be allowed to vote on their content
+
+There voting is up
+
+There is no downvoting on content
+
+The Community will have comments on the content, only on comment is allowed
+
 ## Proposed Knowledge Content
 ### video Content
 
