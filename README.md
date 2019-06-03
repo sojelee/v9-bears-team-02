@@ -59,7 +59,7 @@ Graphql/Rest (Apollo Server)
 
 ## Front End
 
-Reactjs Using CRA/GratsbyJS, Apollo Client, TailwindCss for Styling
+Reactjs Using CRA/Gatsbyjs, Apollo Client, TailwindCss for Styling
 
 ## Testing
 
