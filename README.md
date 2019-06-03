@@ -25,9 +25,17 @@ Any community member will prepare the instructions/lectures or some other form o
 The Community will vote for submitted knowledge contents, the application will rank the highly ranked knowledge content.
 
 ## Proposed Knowledge Content
-### video Content: Duration 15 Minutes
-### Text Content: Reading Time. 30 Minutes
-### Sketched/Drawings: Two Pages
+### video Content
+
+Duration 15 Minutes
+
+### Text Content: 
+
+Reading Time. 30 Minutes
+
+### Sketched/Drawings: 
+
+Two Pages
 
 We emphases short duration/few reading time, few pages of illustrations.
 
@@ -43,19 +51,19 @@ Nodejs for Server Side, with username/mobile/social authentication
 
 ## Database
 
-### Mongodb
+Mongodb
 
 ## Api
 
-### Graphql/Rest (Apollo Server)
+Graphql/Rest (Apollo Server)
 
 ## Front End
 
-### Reactjs Using CRA/GratsbyJS, Apollo Client, TailwindCss for Styling
+Reactjs Using CRA/GratsbyJS, Apollo Client, TailwindCss for Styling
 
 ## Testing
 
-### Jascript/nodejs testing Libraries.
+Jascript/nodejs testing Libraries.
 
 ## WorkFlow
 
@@ -63,7 +71,7 @@ Minimum design System for the application
 
 Micked data structures for the applicaion
 
-### Installation
+## Installation
 
 
 
