@@ -1,14 +1,10 @@
 import React from 'react';
-import './App.css';
+import NewMessageForm from './components/messageComponent';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-              
-          Learn 2 Teach
-        
-      </header>
+    <div >
+       <NewMessageForm />
     </div>
   );
 }
