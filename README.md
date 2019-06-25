@@ -3,7 +3,7 @@
 
 Joseph Chananga Myalla
 
-Labake
+Lemboye Omolabake
 
 LearnToTeach | Voyage-9 | https://chingu.io/
 
