@@ -1,5 +1,4 @@
 import React from 'react';
-
 const Card = ({ title,video, text,illustration,author }) =>{
     return(
         <div>
@@ -11,6 +10,4 @@ const Card = ({ title,video, text,illustration,author }) =>{
         </div>
     )
 }
-
-
 export default Card;

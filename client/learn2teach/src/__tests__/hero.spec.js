@@ -1,6 +1,5 @@
 import React from 'react';
 import { render, cleanup } from '@testing-library/react';
-
 import Hero from '../components/hero';
 const { title, subtitle } ={
     title:'Title',

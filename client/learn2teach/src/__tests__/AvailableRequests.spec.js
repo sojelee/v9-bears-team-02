@@ -2,9 +2,7 @@ import React from 'react';
 import {
     render,
   } from '@testing-library/react';
-
 import AvailableRequests from '../components/AvailableRequests.js';
-
 const requestList = [
   {
     title:'title',

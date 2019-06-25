@@ -1,5 +1,4 @@
 import React from 'react';
-
 const Hero = ({ title, subtitle } ) =>{
     return(
         <div data-testid="heroContainer" className="heroContainer">
@@ -9,5 +8,4 @@ const Hero = ({ title, subtitle } ) =>{
 
     )
 }
-
 export default Hero;

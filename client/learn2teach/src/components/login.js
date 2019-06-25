@@ -1,5 +1,4 @@
 import React from 'react';
-
 const Login = ({ onSubmit }) =>{
 return(
     <div>

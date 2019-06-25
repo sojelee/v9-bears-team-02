@@ -1,6 +1,5 @@
 import React from 'react';
 import { render,cleanup } from '@testing-library/react';
-
 import Card from '../components/card';
 afterEach(cleanup);
 const title="title"
