@@ -59,7 +59,7 @@ function App() {
 
       <div className="container-inner mx-auto mt-8 w-3/5">
                 Yes, the internet is full of good content in almost anything you can imagine. Are you always lucky to find exactly what you are looking for?
-                <span className="text-green-500 text-2xl">Join <span className="text-blue-500">Learn and Teach</span> and be part of content creators, educators and mentors for the better world</span>
+                <span className="text-green-500 text-2xl"> Join <span className="text-blue-500">Learn and Teach</span> and be part of content creators, educators and mentors for the better world</span>
             </div>
             <div className="flex justify-center p-6">
             <button className="bg-green-1000 hover:bg-white
