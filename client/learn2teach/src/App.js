@@ -28,9 +28,7 @@ function App() {
       </div>
 
 <div>
-          <h1 className="sm:font-light text-2xl sm:text-3xl md:text-4xl text-white mt-6 text-center">Navigation</h1>
-      
-          <div className="flex flex-wrap">
+<div className="flex flex-wrap">
       
       <div className="flex flex-col px-4 py-10 w-full sm:w-1/2 border-t-2 sm:border-t border-gray-200">
         <div className="flex flex-grow">
