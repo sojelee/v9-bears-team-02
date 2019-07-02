@@ -1,2 +1,35 @@
 @tailwind base;
+.container-inner {
+    padding-left:1rem;
+    padding-right:1rem;
+}
+
+@media(min-width: 640px){
+    .container-inner {
+        max-width: 640px;
+    }
+}
+@media(min-width: 760px){
+    .container-inner {
+        max-width: 760px;
+    }
+}
+@media(min-width: 1020px){
+    .container-inner {
+        max-width: 800px;
+    }
+}
+
+.bg-green-1000 {
+    background: #173E43;
+}
+
+.text-green-1000 {
+    color: #173E43;
+}
+
+.border-green-1000 {
+    border-color: #173E43;
+}
+
 @tailwind utilities;
