@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Fetch makes an API call and displays the greeting when load-greeting is clicked 1`] = `
+<div
+  data-testid="greeting-text"
+>
+  <h1>
+    Load Greeting
+  </h1>
+  <p>
+    hello there
+  </p>
+  <button
+    data-testid="ok-button"
+    disabled=""
+  >
+    Test
+  </button>
+</div>
+`;
+
+exports[`Fetch makes an API call and displays the greeting when load-greeting is clicked 2`] = `
+<DocumentFragment>
+  <div
+    data-testid="greeting-text"
+  >
+    <h1>
+      Load Greeting
+    </h1>
+    <p>
+      hello there
+    </p>
+    <button
+      data-testid="ok-button"
+      disabled=""
+    >
+      Test
+    </button>
+  </div>
+</DocumentFragment>
+`;
